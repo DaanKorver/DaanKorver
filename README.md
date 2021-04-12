@@ -1,3 +1,5 @@
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
 - 👋 Hi, I’m @DaanKorver
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Vue.js
