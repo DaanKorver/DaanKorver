@@ -1,4 +1,4 @@
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/DaanKorver/DaanKorver/blob/master/github-metrics.svg)
 
 - 👋 Hi, I’m @DaanKorver
 - 👀 I’m interested in Web development
