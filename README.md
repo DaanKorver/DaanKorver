@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @DaanKorver
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on something haha
 - 📫 How to reach me? you can't
 
