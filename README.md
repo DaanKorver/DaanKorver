@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @DaanKorver
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Svelte and Three.js
-- 💞️ I’m looking to collaborate on something (Svelte, React, Three.js, etc.)
+- 🌱 I’m currently learning Svelte, NextJS and Three.js
+- 💞️ I’m looking to collaborate on something (Svelte, React, Three.js, WebAR)
 - 📫 How to reach me? Slide into my DM's
 
 <!---
