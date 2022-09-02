@@ -1,12 +1,13 @@
-![Metrics](https://github.com/DaanKorver/DaanKorver/blob/master/github-metrics.svg)
+# 💻 Coding something, hold on...
 
-- 👋 Hi, I’m @DaanKorver
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Svelte, NextJS and Three.js
-- 💞️ I’m looking to collaborate on something (Svelte, React, Three.js, WebAR)
-- 📫 How to reach me? Slide into my DM's
+![Typing Cat](assets/cat.gif)
 
-<!---
-DaanKorver/DaanKorver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am [@DaanKorver](https://github.com/DaanKorver) ✨,  
+
+I am interested in Web development and currently learning thingies about SvelteKit, NextJS, React and Three.js (Maybe some WebGL in the feature).
+
+I am interested in working with 3D experiences with Three. Also I would like to know more about WebAR / WebXR.
+
+If you want to reach me, hit me up!
+
+[📫 Contact me!](mailto:admin@cloudhadoop.com)
