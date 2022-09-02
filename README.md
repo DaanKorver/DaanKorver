@@ -1,6 +1,6 @@
 # 💻 Coding something, hold on...
 
-<img src="assets/cat.gif" alt="typing cat" width="400"/>
+<img align="left" style="margin-right: 20px" src="assets/cat.gif" alt="typing cat" width="200" height="200" />
 
 Hi, I am [@DaanKorver](https://github.com/DaanKorver) ✨,  
 
